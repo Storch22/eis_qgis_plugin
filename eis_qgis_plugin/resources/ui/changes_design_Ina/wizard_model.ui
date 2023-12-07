@@ -21,7 +21,7 @@
      </property>
      <widget class="QWidget" name="tab_3">
       <attribute name="title">
-       <string>Model data preparation</string>
+       <string>1. Model data preparation</string>
       </attribute>
       <widget class="QLabel" name="label_8">
        <property name="geometry">
@@ -307,7 +307,7 @@
      </widget>
      <widget class="QWidget" name="tab">
       <attribute name="title">
-       <string>Model creation</string>
+       <string>2. Model creation</string>
       </attribute>
       <layout class="QVBoxLayout" name="verticalLayout_8">
        <item>
@@ -982,7 +982,7 @@
      </widget>
      <widget class="QWidget" name="tab_2">
       <attribute name="title">
-       <string>Model application</string>
+       <string>3. Model application</string>
       </attribute>
       <widget class="QWidget" name="layoutWidget">
        <property name="geometry">
@@ -1073,7 +1073,7 @@
      </widget>
      <widget class="QWidget" name="tab_8">
       <attribute name="title">
-       <string>Validation</string>
+       <string>Model Evaluation/Testing ??</string>
       </attribute>
      </widget>
     </widget>
